@@ -1,0 +1,16 @@
+#ifndef VAR_PROJECT_NAME__VAR_LIBRARY_NAME_h
+#define VAR_PROJECT_NAME__VAR_LIBRARY_NAME_h
+
+
+namespace VAR_PROJECT_NAME {
+
+
+class VAR_LIBRARY_NAME
+{
+};
+
+
+} // namespace VAR_PROJECT_NAME
+
+
+#endif
